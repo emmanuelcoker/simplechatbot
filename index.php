@@ -129,6 +129,7 @@ require_once('dbconnect.php');
                           echo $row['message'];
                       ?>
                     </div>
+                    
                     <!-- /.direct-chat-text -->
                   </div>
                   <!-- /.direct-chat-msg -->
